@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="hello">Bonjour le monde!</string>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="testing">
+        <xliff:g id="do_not_translate">Hello</xliff:g> le monde!
+    </string>
     <string name="app_name">"Basiques "</string>
 </resources>
